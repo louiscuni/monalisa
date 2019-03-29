@@ -6,6 +6,7 @@ The first one is classic genetic algorithm.
 The second one idea is to start with one polygon, find the best copy using genetic algorithm and add a new polygon.
 
 **To Run the code :**
+
 *clone the repository 
 *change the path of the picture you want copy in the Main class
 *compile the main class
