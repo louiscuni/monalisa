@@ -5,8 +5,11 @@ There is two examples in the main class. Those represente two differents way to 
 
 To Run the code :
 -clone the repositorie 
+
 -change the path of the picture you want copie in the Main class
+
 -compile the main class
+
 -run the code
 
 BEWARE : you need javafx to run the code
