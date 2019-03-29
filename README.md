@@ -7,10 +7,10 @@ The second one idea is to start with one polygon, find the best copy using genet
 
 **To Run the code :**
 
-*clone the repository 
-*change the path of the picture you want copy in the Main class
-*compile the main class
-*run the code
+* clone the repository 
+* change the path of the picture you want copy in the Main class
+* compile the main class
+* run the code
 
 
 **BEWARE** : you need javafx to run the code
